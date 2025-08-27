@@ -8,13 +8,13 @@ import time
 PREFIX = "!/."
 
 
-OWNER = ["5136746907"]
+OWNER = ["6114033856"]
 
-OWNER_NAME = "@I_M_R_A_S"
+OWNER_NAME = "@NOMORE231"
 
-CHANNEL = "https://t.me/cyberassemble"
+CHANNEL = "NOT NOW"
 
-GROUP = "https://t.me/assemblechat"
+GROUP = "NOT NOW"
 
 def ok(mm):
   mg = str(mm)
